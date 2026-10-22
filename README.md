@@ -3,6 +3,7 @@
 ### NetUP UTM 5 billing system console payment tool options
 
 The options are as follows:
+|||
 | - | - |
 | Arguments | Description |
 | [ -C path ] |  Config filename, default: /netup/utm5/utm5_payment_tool.cfg
