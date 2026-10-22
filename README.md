@@ -1,8 +1,8 @@
 # UTM5 AWARD BONUSES
 
 ### NetUP UTM 5 billing system console payment tool options
-| Argument | Description |
-| :------- | :---------- |
+| Option | Description |
+| :----- | :---------- |
 | [ -C path ] |  Config filename, default: /netup/utm5/utm5_payment_tool.cfg |
 | [ -h core_host ] | Core host, default: 127.0.0.1 |
 | [ -P core_port ] | URFA port, default: 11758 |
