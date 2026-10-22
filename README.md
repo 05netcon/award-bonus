@@ -20,3 +20,7 @@ The options are as follows:
 | [ -t unix_timestamp ] | Time of payment acceptance. Default: current |
 | [ -i ] | Turn on internet. Default: no |
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
