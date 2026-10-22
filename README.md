@@ -3,8 +3,8 @@
 ### NetUP UTM 5 billing system console payment tool options
 
 The options are as follows:
-| --------- | ----------- |
 | Arguments | Description |
+| --------- | ----------- |
 | [ -C path ] |  Config filename, default: /netup/utm5/utm5_payment_tool.cfg |
 | [ -h core_host ] | Core host, default: 127.0.0.1 |
 | [ -P core_port ] | URFA port, default: 11758 |
@@ -19,8 +19,3 @@ The options are as follows:
 | [ -e payment_external_number ] | Payment external number. Default: none |
 | [ -t unix_timestamp ] | Time of payment acceptance. Default: current |
 | [ -i ] | Turn on internet. Default: no |
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
